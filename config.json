@@ -1,0 +1,201 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#0C0F29",
+            "lang-select-color": "#222829",
+            "bg-light": "#05080F",
+            "welcome-bonus-bg": "#0C0F29",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#111432",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#05080F",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FFA809",
+            "yellow": "#1F7FD9",
+            "yellow-button": "#FFA809",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#0C0F29",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#0C0F29",
+            "faq-label": "#0C0F29",
+            "bg-footer": "#0C0F29",
+            "copyright": "#e7e7d5",
+            "starColor": "#1F7FD9",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "RioAce",
+            "title": "RioAce Casino | Play Online Slots, Live Casino & Win Real Money",
+            "description": "Discover the thrill of gaming at RioAce Casino! Enjoy slots, live dealer games, tournaments, bonuses, and fast payouts. Play safely and win big today!\n",
+            "canonical": "rioace-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/784",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "rioace-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/785",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/786"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/804",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "RioAce Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "RioAce Online Casino \u2014 Slots, Live Games & Big Wins",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/789",
+            "imageSizeModifier": 10,
+            "imageYModifier": -5,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/790",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Wide selection of games from top providers",
+                "Generous bonuses and promotions for players",
+                "Fast payouts and convenient payment methods",
+                "Cryptocurrency and multiple currency support",
+                "Cura\u00e7ao license ensures safety and fairness",
+                "Mobile-friendly design and easy navigation",
+                "Loyalty program and VIP privileges"
+            ],
+            "advantagesAfterText": "RioAce delivers a diverse gaming experience, strong security, and attractive rewards. The platform focuses on player convenience with quick transactions and mobile accessibility.\n",
+            "knowMore": "Know more",
+            "appTitle": "Rioace App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/791",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Rioace App",
+            "mobileGooglePlayImageTitle": "Rioace App",
+            "mobileIosImageTitle": "Rioace App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Rioace",
+                "description1": "The platform combines high payouts with excellent loyalty benefits.",
+                "items": [
+                    "Bonus up to 400% on deposit",
+                    "Maximum win up to \u20ac50,000",
+                    "Cashback up to 35% weekly"
+                ],
+                "description2": "RioAce is a modern online casino with a wide range of games. The platform offers a user-friendly interface and mobile accessibility. Players can enjoy slots, table games, and live casino options. Licensed operations ensure safe and fair gaming. Multiple payment methods, including e-wallets and cryptocurrencies, are supported. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/792",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "A loyalty program adds extra value for regular players. Frequent promotions and tournaments keep the experience exciting. Customer support is available 24\/7 for assistance. RioAce focuses on convenience and reliability. It\u2019s a great destination for online entertainment.\n"
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "RioAce \u2014 a modern casino for thrilling wins",
+                "description": "<p>\nRioAce is an innovative online gaming platform that combines sleek design, user-friendly navigation, and a wide range of entertainment options. The casino is designed for players who value comfort, security, and an exciting gaming experience.\n\n<\/p>\n<br>\n<p>\nHere you\u2019ll find thousands of popular slots, table games, and live casino sessions with professional dealers. The platform partners with leading providers, ensuring top-quality graphics and fair play.\n\n<\/p>\n<br>\n<p>\nSecurity and reliability are a top priority. The casino operates under an international license, and all transactions are processed through secure channels. Multiple payment options, including cryptocurrencies, make deposits and withdrawals fast and convenient.\n\n<\/p>\n<br>\n<p>\nRioAce offers regular promotions, bonuses, and a loyalty program to make every player feel special. Tournaments and exclusive deals create a thrilling atmosphere and provide opportunities for big wins.\n\n<\/p>\n<br>\n<p>\nThis casino is perfect for those seeking a blend of reliability, variety, and chances for impressive payouts. RioAce is where excitement meets modern technology.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPayment Methods and Currencies at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce provides players with convenient and secure options for deposits and withdrawals. The platform supports traditional bank cards as well as modern e-wallets, offering flexibility for all users. Additionally, the casino embraces cryptocurrencies, making transactions fast and anonymous.\n\n<\/p>\n<br>\n<p>\nPlayers can use popular payment methods, including Visa and Mastercard, along with services like Skrill and Neteller. For those who prefer digital assets, Bitcoin, Ethereum, Litecoin, and other cryptocurrencies are available. All transactions are processed through secure channels, ensuring the safety of funds and personal data.\n\n<\/p>\n<br>\n<p>\nThe casino\u2019s currency policy is designed for a global audience. Major currencies such as Euro, US Dollar, Canadian Dollar, Australian Dollar, and others are supported. This makes it easy for players from different regions to enjoy the platform without complications.\n\n<\/p>\n<br>\n<p>\nRioAce ensures that financial operations are simple and transparent, allowing users to focus on gaming and enjoy a seamless experience.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRules and Conditions for Playing at RioAce Casino\n\n<\/h3>\n\n<p>\nVisiting RioAce online casino requires compliance with specific rules to ensure safety and fairness for all players. The main condition is registering on the platform with accurate personal information. Players must confirm their age, as access is allowed only to adults.\n\n<\/p>\n<br>\n<p>\nAll participants are required to play fairly and avoid using prohibited software or methods to gain an advantage. The casino reserves the right to verify player identity and payment sources to prevent fraud.\n\n<\/p>\n<br>\n<p>\nIt is forbidden to create multiple accounts, use someone else\u2019s data, or engage in any actions that violate fair play principles. Players should also respect betting limits and practice responsible gaming.\n\n<\/p>\n<br>\n<p>\nThe platform guarantees data confidentiality and secure transactions, but users must keep their login credentials safe. Violating these rules may result in account suspension and forfeiture of winnings.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Conditions and Prohibitions\n<\/h4>\n\n <ul>\n            <li>\u2022 \nCondition: Register with real data and confirm age.\n\n<\/li>\n            <li>\u2022 \nCondition: Follow fair play rules and betting limits.\n\n<\/li>\n            <li>\u2022 \nProhibition: Use of third-party software or bots.\n\n<\/li>\n            <li>\u2022 \nProhibition: Creating multiple accounts or fake identities.\n\n<\/li>\n\t    <li>\u2022 \nProhibition: Attempts at fraud or money laundering.\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicense and Data Protection at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce operates under an international Cura\u00e7ao license, ensuring legality and transparency in all gaming processes. This license guarantees compliance with fair play standards and protection of user interests.\n\n<\/p>\n<br>\n<p>\nData security is a top priority. All personal information and financial transactions are processed through secure channels using advanced encryption technologies. The platform employs SSL protocols to provide a high level of protection against unauthorized access.\n\n<\/p>\n<br>\n<p>\nRioAce\u2019s privacy policy strictly regulates the handling of personal data. Player information is never shared with third parties without consent, and all operations comply with international data protection standards.\n\n<\/p>\n<br>\n<p>\nThe casino also uses monitoring systems to prevent fraud and enforce responsible gaming rules. This creates a safe and reliable environment for all players.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce places great emphasis on providing high-quality customer service through multiple communication channels. Players can contact support via live chat, email, or phone. The live chat is available 24\/7, ensuring quick assistance for any inquiries.\n\n<\/p>\n<br>\n<p>\nAverage response time in chat is just a few minutes, while email replies typically take a few hours. The phone line is reserved for more complex issues and consultations.\n\n<\/p>\n<br>\n<p>\nThe service quality is rated highly: support agents are polite, knowledgeable, and ready to assist with registration, payments, or bonuses.\n\n<\/p>\n<br>\n<p>\nSupport is available in multiple languages, including English, Spanish, German, and others, making the platform accessible to players worldwide.\n\n<\/p>\n<br>\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment and Gaming at Rioace",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nRioAce Loyalty Program: Rewards and VIP Benefits\n\n<\/h3>\n\n<p>\nThe RioAce loyalty program is designed to reward active players and make gaming more profitable. It offers exclusive bonuses, cashback, and additional privileges that increase as you move up the levels. Participation is available to all registered users, and progress depends on activity and wager amounts.\n\n<\/p>\n<br>\n<p>\nEach new level unlocks higher bonuses, personalized offers, and faster withdrawals. Players can enjoy free spins, extra deposit percentages, and increased cashback. The higher the status, the greater the benefits and exclusive rewards.\n\n<\/p>\n<br>\n<p>\nThe loyalty program includes several tiers, starting from the basic level and reaching VIP status. To advance, players need to accumulate points earned through bets on slots and other games.\n\n<\/p>\n<br>\n<p>\nThis is a great opportunity for regular players to boost their winnings and receive extra rewards for their activity.\n\n<\/p>\n<br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n       <h4 style = \"font-weight: bold; font-size: 24px;\">Registration Conditions\n<\/h4>\n            <ul>\n            <li>\u2022 \nSign up on the RioAce platform.\n\n<\/li>\n            <li>\u2022 \nConfirm age (18+).\n\n<\/li>\n            <li>\u2022 \nPlay actively and collect points.\n\n\n<\/li>\n\n  \n        <\/ul><br>\n        \n\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Available Bonuses\n<\/h4>\n        <ul>\n            <li>\u2022 \nDeposit Bonus: up to 400% on initial deposits.\n\n<\/li>\n            <li>\u2022 \nFree Spins: up to 350 spins.\n\n<\/li>\n       <li>\u2022 \nCashback: up to 35% weekly.\n\n<\/li>\n            <li>\u2022 \nPersonalized Promotions: for high-status players.\n\n\n<\/li>\n  \n        <\/ul><br>\n      \n\n    <\/div>\n<\/div>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Program Levels and How to Reach Them\n<\/h4>\n            <ul>\n            <li>\u2022 \nBasic Level: available immediately after registration.\n\n<\/li>\n            <li>\u2022 \nSilver Level: achieved by collecting a set number of points.\n\n<\/li>\n            <li>\u2022 \nGold Level: unlocks higher bonuses and cashback.\n\n<\/li>\n           <li>\u2022 \nVIP Level: personalized offers, faster payouts, exclusive promotions.\n\n\n<\/li>\n       \n  \n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce provides players with a wide range of bonuses and special offers that make gaming more exciting and rewarding. In addition to standard welcome packages, the platform regularly hosts promotions, tournaments, and seasonal events. These offers are designed to boost winning chances and add extra fun to the experience.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy deposit bonuses, free spins, cashback, and exclusive prizes through tournaments. Seasonal promotions bring extra rewards during holidays, while themed events create a competitive and festive atmosphere.\n\n<\/p>\n<br>\n<p>\nRioAce also features special jackpot games where players can win massive payouts. Constant updates to offers keep the platform dynamic and engaging for all types of players.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain Bonuses and Offers\n<\/h4>\n\n <ul>\n            <li>\u2022 \nWelcome Bonus: up to 400% on initial deposits plus up to 350 free spins.\n<\/li>\n            <li>\u2022 \nCashback: up to 35% weekly for active players.\n\n<\/li>\n            <li>\u2022 \nTournaments: prize pools up to \u20ac50,000 for slots and live games.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions: holiday bonuses and extra spins for New Year, Halloween, and more.\n\n<\/li>\n\t    <li>\u2022 \nSpecial Jackpots: progressive wins reaching hundreds of thousands of euros.\n\n<\/li>\n\t    <li>\u2022 \nReload Bonuses: extra percentages on second and third deposits.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce offers players a vast selection of games, with the most popular slots and live games taking center stage. The platform partners with leading providers such as NetEnt, Pragmatic Play, Play\u2019n GO, and Evolution Gaming, ensuring top quality and fair play.\n\n<\/p>\n<br>\n<p>\nPlayers can enjoy classic slots, modern video slots with bonus features, and progressive jackpot games. For those who love real-time interaction, live dealer tables offer roulette, blackjack, and baccarat.\n\n<\/p>\n<br>\n<p>\nAdditionally, RioAce features crash games and fast-paced entertainment for a dynamic gaming experience. All games are optimized for mobile devices, allowing players to enjoy them anytime, anywhere.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPopular Games\n<\/h4>\n\n <ul>\n            <li>\u2022 \nStarburst (NetEnt): legendary slot with vibrant graphics and simple rules.\n\n<\/li>\n            <li>\u2022 \nSweet Bonanza (Pragmatic Play): colorful slot with multipliers and cascading wins.\n\n<\/li>\n            <li>\u2022 \nBook of Dead (Play\u2019n GO): adventure-themed slot with bonus rounds and high win potential.\n\n<\/li>\n            <li>\u2022 \nMega Moolah (Microgaming): progressive jackpot that can award millions.\n\n<\/li>\n\t    <li>\u2022 \nLightning Roulette (Evolution Gaming): unique roulette version with multipliers and live dealers.\n\n<\/li>\n\t    <li>\u2022 \nCrash Games (Spribe): fast-paced games with instant win potential.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and maximum bets at RioAce Casino\n<\/h3>\n\n<p> \nRioAce Casino offers flexible betting limits suitable for both beginners and high rollers. Minimum bets allow players to start without large investments, while maximum bets provide opportunities for big wins. Limits vary depending on the game type: slots, table games, and live casino have different ranges.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#FFA809; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac100 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac10,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack  (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat (Live)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> \u20ac5,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Crash Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">\u20ac1,000<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce is more than just an online casino; it\u2019s a full-scale entertainment platform featuring special events and live shows. Players can enjoy not only slots and table games but also participate in unique activities that create a festive atmosphere.\n\n<\/p>\n<br>\n<p>\nThe casino regularly hosts themed promotions tied to holidays and seasons. During these events, players can access exclusive bonuses, tournaments with large prize pools, and special games with boosted multipliers. This makes the gaming experience dynamic and exciting for everyone.\n\n<\/p>\n<br>\n<p>\nLive entertainment is a key highlight. Players can join live shows with professional dealers, featuring prize draws and bonus rounds. These events replicate the thrill of a real casino without leaving home.\n\n<\/p>\n<br>\n<p>\nAdditionally, RioAce organizes VIP events for loyal customers. These include private tournaments, personalized offers, and exclusive prize draws available only to high-tier loyalty members.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAll Entertainment and Events\n<\/h4>\n\n <ul>\n            <li>\u2022 \nThemed Tournaments: slot competitions with prize pools up to \u20ac50,000.\n\n<\/li>\n            <li>\u2022 \nSeasonal Promotions: holiday bonuses and free spins (New Year, Halloween).\n<\/li>\n            <li>\u2022 \nLive Dealer Shows: real-time games with prize giveaways.\n\n<\/li>\n            <li>\u2022 \nVIP Events: private tournaments and personalized bonuses for top players.\n\n<\/li>\n\t    <li>\u2022 \nSpecial Jackpot Games: progressive jackpots offering massive payouts.\n\n<\/li>\n\t    <li>\u2022 \nCrash Games and Fast Play: quick-action formats for thrill seekers.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWithdrawal Methods and Payout Speed at RioAce Casino\n\n<\/h3>\n\n<p>\nRioAce offers players convenient and secure withdrawal options, ensuring transparency and reliability in all financial transactions. The platform supports traditional bank cards, modern e-wallets, and cryptocurrencies, providing maximum flexibility for users.\n\n<\/p>\n<br>\n<p>\nProcessing times depend on the chosen method. E-wallets and cryptocurrencies are the fastest, usually completed within 24\u201348 hours. Bank transfers take longer, ranging from 1 to 7 business days depending on the bank and region.\n\n<\/p>\n<br>\n<p>\nThe casino sets withdrawal limits to maintain security and comply with international standards. The minimum withdrawal amount is typically around \u20ac20, while the maximum can reach \u20ac10,000 per day and \u20ac50,000 per month.\n\n<\/p>\n<br>\n<p>\nAll transactions are processed through secure channels using SSL encryption, guaranteeing the safety of funds and personal data. Identity verification may be required before the first withdrawal to prevent fraud.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Methods\n<\/h4>\n\n <ul>\n            <li>\u2022 \nBank Cards: Visa, Mastercard \u2014 up to 3\u20137 days.\n\n<\/li>\n            <li>\u2022 \nE-Wallets: Skrill, Neteller, Jeton \u2014 up to 24\u201348 hours.\n\n<\/li>\n            <li>\u2022 \nCryptocurrencies: Bitcoin, Ethereum, Litecoin, USDT \u2014 up to 24 hours.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProcessing Times\n<\/h4>\n\n <ul>\n            <li>\u2022 \nE-Wallets and Cryptocurrencies: 1\u20132 days.\n\n<\/li>\n            <li>\u2022 \nBank Transfer: up to 7 days.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal Limits\n<\/h4>\n\n <ul>\n            <li>\u2022 \nMinimum Withdrawal: \u20ac20.\n\n<\/li>\n            <li>\u2022 \nMaximum Withdrawal: \u20ac10,000 per day, \u20ac50,000 per month.\n<\/li>\n\n        <\/ul><br>\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "Do I need verification to play?",
+                    "answer": "Yes, identity verification is required for withdrawals. This is a standard anti-fraud measure.\n"
+                },
+                {
+                    "title": "Can I play for free?",
+                    "answer": "Yes, most slots are available in demo mode without real bets.\n"
+                },
+                {
+                    "title": "Are there restricted countries?",
+                    "answer": "Yes, some regions are restricted due to legal regulations. The full list is available in the casino rules.\n"
+                },
+                {
+                    "title": "What should I do if I have withdrawal issues?",
+                    "answer": "Contact live chat or email support. Issues are usually resolved within 24 hours.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/793",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "RioAce"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
